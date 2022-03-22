@@ -1,6 +1,6 @@
 # **Graduação**
 
-### • Engenharia mecatronica - FACENS - 2016-2021
+### • Engenharia mecatrônica - FACENS - 2016-2021
 
 # **Experiência**
 
