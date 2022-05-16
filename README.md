@@ -1,5 +1,7 @@
-# Hi there 👋 welcome to my profile
+# olá 👋 Bem-vindos ao meu pequeno espaço.
 
-## My name is Caio Ireno, i'm twenty four years old and i live in Sorocaba with my wife and my three cats :couple::smiley_cat::smiley_cat::smiley_cat:
+## Meu nome é Caio Ireno, tenho 24 anos e moro em sorocaba com minha esposa e três gatinhas :couple::smiley_cat::smiley_cat::smiley_cat:
 
-## I'm graduated in Mechatronics Engineering and i'm started studying programming. During my graduation, I developed some programs in JavaScrpit, C++ and Python. I also developed some web pages using HTML5 and CSS3. This repository is for me to study the features of Git/GitHub.
+## Sou graduado em engenharia mecatronica e estou começando a estudar programação com foco em desenvolvimento WEB. Durante minha graduação, desenvolvi alguns programas em JavaScrpit, C++ e Python. Também desenvolvi algumas páginas web usando HTML5 e CSS3.
+
+## Atualmente desenvolvo pequenos projetos utilizando HTML, CSS e JavaScript. Além disso faço o uso de UX e UI Design nos projetos WEB.
