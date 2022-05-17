@@ -1,6 +1,6 @@
-# Caio Eduardo 
-<br>
-<br>
+<img src="./img/img1.jpg" alt="perfil">
+
+# Caio Eduardo
 
 ## Meu nome é Caio Ireno, tenho 24 anos e moro em sorocaba com minha esposa e três gatinhas :couple::smiley_cat::smiley_cat::smiley_cat:
 
