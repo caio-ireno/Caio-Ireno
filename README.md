@@ -1,9 +1,14 @@
-<img src="./img/img1.jpg" alt="perfil">
+<img src="./img/img3.JPG" alt="perfil" width="100%">
 
-# Caio Eduardo
+<div>
+  <h1 align="center"> Caio Eduardo :computer: </h1>
+  <p align="center"> Pela formação de engenharia conheço de maneira generalista as vertentes da tecnologia. Percebi imensas oportunidades na área de desenvolvimento web. Por essa razão estou me qualificando para aprender cada vez mais e ficar atualizado.
+Minhas especialidades incluem o aprendizado rápido de novas habilidades e linguagens de programação, resolução de problemas. Até o momento tenho noção de JavaScript, C, HTML, CSS, GIT e um pouco de Python. Estou aprimorando meu conhecimento para abrir cada vez mais oportunidades de trabalho e qualificação..</p>
+  
 
-## Meu nome é Caio Ireno, tenho 24 anos e moro em sorocaba com minha esposa e três gatinhas :couple::smiley_cat::smiley_cat::smiley_cat:
-
-## Sou graduado em engenharia mecatrônica e estou começando a estudar programação com foco em desenvolvimento WEB. Durante minha graduação, desenvolvi alguns programas em JavaScrpit, C++ e Python. Também desenvolvi algumas páginas web usando HTML5 e CSS3.
-
-## Atualmente desenvolvo pequenos projetos utilizando HTML, CSS e JavaScript. Além disso faço o uso de UX e UI Design nos projetos WEB.
+### 🖥️ Tecnologias e Ferramentas: 
+<code><img width="40px" src="./img/html.png" title = "HTML5"/></code>
+<code><img width="40px" src="./img/CSS.png" title = "CSS3"/></code>
+<code><img width="40px" src="./img/JS.png" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="./img/git.png" title = "GIT"/></code>
+<code><img width="40px" src="./img/github.png" title = "GITHUB"/></code>
