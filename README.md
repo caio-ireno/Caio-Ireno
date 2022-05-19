@@ -14,6 +14,8 @@ Minhas especialidades incluem o aprendizado rápido de novas habilidades e lingu
 <code><img width="40px" src="./img/git.png" title = "GIT"/></code>
 <code><img width="40px" src="./img/github.png" title = "GITHUB"/></code>
 
+<br>
+
 ## :factory: Experiências:
 
 ### :one: Centro Universitário FACENS
