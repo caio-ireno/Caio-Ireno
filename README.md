@@ -1,18 +1,3 @@
-<!doctype html>
-<html>
-<head>
-<style>
-.img1{
-    background-image: url('./img/img1.jpg');
-}
-</style>
-</head>
-
-<body>
-<div class="img1">
-  <h1 align="center"> Caio Eduardo :computer: </h1>
-</div>
-
 <div>
   <h1 align="center"> Caio Eduardo :computer: </h1>
   <p align="center"> Pela formação de engenharia conheço de maneira generalista as vertentes da tecnologia. Percebi imensas oportunidades na área de desenvolvimento web. Por essa razão estou me qualificando para aprender cada vez mais e ficar atualizado.
@@ -42,6 +27,3 @@ Minhas especialidades incluem o aprendizado rápido de novas habilidades e lingu
 ### :three: Intersecta
 
 <p>Programação de controladores lógicos programáveis (CLP) para aplicações industriais. Desenvolvimento de sistemas de monitoramento e controle de processo via interface Homem-Máquina (IHM). Programação de microcontroladores utilizando C++.</p>
-</body>
-
-</html>
