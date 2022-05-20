@@ -1,3 +1,5 @@
+<!doctype html>
+<html>
 <head>
 <style>
 .img1{
@@ -6,6 +8,7 @@
 </style>
 </head>
 
+<body>
 <div class="img1">
   <h1 align="center"> Caio Eduardo :computer: </h1>
 </div>
@@ -39,3 +42,6 @@ Minhas especialidades incluem o aprendizado rápido de novas habilidades e lingu
 ### :three: Intersecta
 
 <p>Programação de controladores lógicos programáveis (CLP) para aplicações industriais. Desenvolvimento de sistemas de monitoramento e controle de processo via interface Homem-Máquina (IHM). Programação de microcontroladores utilizando C++.</p>
+</body>
+
+</html>
