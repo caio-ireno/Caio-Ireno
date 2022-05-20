@@ -1,6 +1,11 @@
-<div position="relative">
-  <img width="100%" src="./img/img1.jpg" />
-  <h1 align="center" position="absolute" top="-100px" > Caio Eduardo :computer: </h1>
+<style>
+.img1{
+    background-image: url('./img/img1.jpg');
+}
+</style>
+
+<div class="img1">
+  <h1 align="center"> Caio Eduardo :computer: </h1>
 </div>
 
 <div>
