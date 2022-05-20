@@ -1,6 +1,6 @@
 <div position="relative">
-  <img src="./img/img1.jpg" />
-  <h1 align="center" position="absolute" > Caio Eduardo :computer: </h1>
+  <img width="100%" src="./img/img1.jpg" />
+  <h1 align="center" position="absolute" top="-50px" > Caio Eduardo :computer: </h1>
 </div>
 
 <div>
