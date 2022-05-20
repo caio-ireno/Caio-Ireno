@@ -1,8 +1,10 @@
+<head>
 <style>
 .img1{
     background-image: url('./img/img1.jpg');
 }
 </style>
+</head>
 
 <div class="img1">
   <h1 align="center"> Caio Eduardo :computer: </h1>
