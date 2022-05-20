@@ -1,5 +1,6 @@
-<div background-image= url('./img/img1.jpg')>
- <h1 align="center"> Caio Eduardo :computer: </h1>
+<div position="relative">
+  <img src="./img/img1.jpg" />
+  <h1 align="center" position="absolute" > Caio Eduardo :computer: </h1>
 </div>
 
 <div>
