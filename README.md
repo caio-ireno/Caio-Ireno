@@ -1,4 +1,4 @@
-<div background= url('./img/img1.jpg')>
+<div background-image= url('./img/img1.jpg')>
  <h1 align="center"> Caio Eduardo :computer: </h1>
 </div>
 
