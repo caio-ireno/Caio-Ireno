@@ -1,4 +1,6 @@
-<img src="./img/img3.JPG" alt="perfil" width="100%">
+<div background= url('./img/img1.jpg')>
+ <h1 align="center"> Caio Eduardo :computer: </h1>
+</div>
 
 <div>
   <h1 align="center"> Caio Eduardo :computer: </h1>
