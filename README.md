@@ -3,15 +3,15 @@
     <p>Experiência em desenvolvimento e gerenciamento de projetos no setor de pesquisa e desenvolvimento com foco em engenharia eletrônica. </p>
 
 
-     <p>Experiência com  simulação Computacional aplicada em modelos físicos e químicos,  com o software LAMMPS, escrito em C++.  Aplicada como parte do desenvolvimento do meu TCC, onde desenvolvi um modelo para estudar a capacidade de filtragem de gases poluentes emitidos a partir de motores a combustão. </p>
-      
-     <p> Certificação em desenvolvimento Front-end,  com Javascrpit, HTML, CSS e React. Buscando conhecimento em Node.js e Typescript. </p>
+    
+    <p> Projetos disponíveis no meu github: https://github.com/caio-ireno. <br>Experiência com  simulação Computacional aplicada em modelos físicos e químicos,  com o software LAMMPS, escrito em C++.  Aplicada como parte do desenvolvimento do meu TCC, onde desenvolvi um modelo para estudar a capacidade de filtragem de gases poluentes emitidos a partir de motores a combustão.<br> Certificação em desenvolvimento Front-end,  com Javascrpit, HTML, CSS e React. Buscando conhecimento em Node.js e Typescript. 
+     <Projetos disponíveis no meu github: https://github.com/caio-ireno.<br> Entusiasta da tecnologia, música, cultura e aprendizado, empolgado e pronto para novos projetos. </p>
 
-<p> Projetos disponíveis no meu github: https://github.com/caio-ireno. </p>
 
-        <p>Entusiasta da tecnologia, música, cultura e aprendizado, empolgado e pronto para novos projetos. </p>
 
-</div>
+
+
+
 
 
 
