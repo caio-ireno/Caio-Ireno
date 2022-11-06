@@ -1,28 +1,20 @@
-<div>
-  <h1 align="center"> Caio Eduardo :computer: </h1>
-    <p>Engenheiro mecatrônico apaixonado pela tecnologia, cursando Análise e Desenvolvimento de Sistemas.<br>Experiência em desenvolvimento e gerenciamento de projetos no setor de pesquisa e desenvolvimento com foco em engenharia eletrônica.<br> Experiência com suporte técnico e suporte ao cliente no ramo de tecnologia.<br>Experiência nas áreas de Customer Experience e satisfação do cliente. <br>Certificação em desenvolvimento Front-end, com Javascrpit, HTML, CSS e React. <br>Possuo conhecimento em Adobe Photoshop com foco em design e criatividade. Alem de conhecimento da área de Tecnologia (Banco de Dados e Pacote Office). <br>Entusiasta da tecnologia, música, cultura e aprendizado, empolgado e pronto para novos projetos. </p>
+  <div  style="display:flex flex-direction: row;">
+    <p style="font-size:3rem"> Caio Eduardo :computer: </p>
+    <a href="https://www.linkedin.com/in/caio-eduardo-ireno-84941a142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  <br>
+    <p >Engenheiro mecatrônico apaixonado pela tecnologia, cursando Análise e Desenvolvimento de Sistemas.<br>Entusiasta da tecnologia, música, cultura e aprendizado, empolgado e pronto para novos projetos.</p>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-ireno&layout=compact&langs_count=7&theme=dracula"/>
 
 ## 🖥️ Tecnologias e Ferramentas:
 
-<code><img width="40px" src="./img/html.png" title = "HTML5"/></code>
-<code><img width="40px" src="./img/CSS.png" title = "CSS3"/></code>
-<code><img width="40px" src="./img/JS.png" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="./img/react.png" title = "React"/></code>
-<code><img width="40px" src="./img/git.png" title = "GIT"/></code>
-<code><img width="40px" src="./img/github.png" title = "GITHUB"/></code>
-
-<br>
-
-## :factory: Experiências:
-
-### :one: Centro Universitário FACENS
-
-<p>Desenvolvimento de projetos MAKER utilizando impressora 3D e desenvolvimento de projetos WEB usando HTML, CSS e JavaScript.</p>
-
-### :two: UNESP
-
-<p>Estudo de materiais semicondutores e caracterizações óticas, morfológicas, elétricas, estruturais e mecânicas além de suas possíveis aplicações científicas e tecnológicas.</p>
-
-### :three: Intersecta
-
-<p>Programação de controladores lógicos programáveis (CLP) para aplicações industriais. Desenvolvimento de sistemas de monitoramento e controle de processo via interface Homem-Máquina (IHM). Programação de microcontroladores utilizando C++.</p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
