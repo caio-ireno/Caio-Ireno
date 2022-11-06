@@ -1,5 +1,5 @@
   <div  style="display:flex flex-direction: row;">
-    <p style="font-size:3rem"> Caio Eduardo :computer: </p>
+    <p style="font-size:32px"> Caio Eduardo :computer: </p>
     <a href="https://www.linkedin.com/in/caio-eduardo-ireno-84941a142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   <br>
