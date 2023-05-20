@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/caio-eduardo-ireno-84941a142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   <br>
-    <p >Engenheiro mecatrônico apaixonado pela tecnologia, , cursando pós graduação em desenvolvimento de sistemas web com PHP.<br>Entusiasta da tecnologia, música, cultura e aprendizado, empolgado e pronto para novos projetos.</p>
+    <p >Engenheiro mecatrônico apaixonado pela tecnologia, cursando pós graduação em desenvolvimento de sistemas web com PHP.<br>Entusiasta da tecnologia, música, cultura e aprendizado, empolgado e pronto para novos projetos.</p>
     
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caio-ireno&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-ireno&layout=compact&langs_count=6&theme=tokyonight&text_color=FFFFFF"/>
