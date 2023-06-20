@@ -23,7 +23,7 @@
   <br>
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caio-ireno&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-ireno&layout=compact&langs_count=6&theme=tokyonight&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-ireno&layout=compact&langs_count=6&theme=tokyonight&text_color=#fff"/>
   </a>
 
 ## 🖥️ Tecnologias e Ferramentas:
