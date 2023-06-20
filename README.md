@@ -26,8 +26,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-ireno&layout=compact&langs_count=6&theme=tokyonight&text_color=#fff"/>
   </a>
 
-## 🖥️ Tecnologias e Ferramentas:
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
